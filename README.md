@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DevHunteer
 - 👀 I’m interested in Web Dev 
-- 🌱 I’m currently learning Vue / Nuxt
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working & learning Vue / Nuxt / Typescript / TauriApp / Rustlang
 - 📫 How to reach me Tariik.Hr@Outlook.fr
 
 <!---
